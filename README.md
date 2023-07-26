@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on MVP of FilmFInance.App<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning MERN stack and Solidity <br>💬 Ask me about Web development and gaming<br>⚡ Web3 enthusiast
+🔭 I’m currently working on MVP of FilmFInance.App<br>👯 I’m looking to collaborate on MERN/Web3 projects<br>🌱 I’m currently a CSE undergrad <br>💬 Ask me about Web development and gaming<br>⚡ Web3 enthusiast
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumik.baksi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sbaksi.tfa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik-baksi) 
