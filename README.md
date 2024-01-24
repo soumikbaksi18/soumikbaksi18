@@ -21,10 +21,15 @@
       </tr>
   </thead>
   <tbody> 
+   <tr>
+      <td> <b> Project Engineer Intern </b> </td>
+      <td><a href="https://www.effigoglobal.com/"/><b>EffiGO Globals</b></a></td>
+      <td> <b> January 2024 - Present </b> </td>
+   </tr> 
   <tr>
       <td> <b> Fullstack Developer Intern </b> </td>
       <td><a href="https://filmfinance.app/"/><b>FilmFInance App</b></a></td>
-      <td> <b> May 2023 - Present </b> </td>
+      <td> <b> May 2023 - December 2023 </b> </td>
    </tr> 
   <tr>
       <td> <b>Software Engineer Intern</b> </td>
