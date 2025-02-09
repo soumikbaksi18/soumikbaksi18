@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working as a AIML Engineer in Catoff Gaming<br>👯 I’m looking to collaborate on AI & Web3 projects<br>🌱 I lobe building opensource or in hackathons <br>💬 Ask me about product development and gaming<br>⚡ AI enthusiast
+🔭 I’m currently working as a AIML Engineer in Catoff Gaming<br>👯 I’m looking to collaborate on AI & Web3 projects<br>🌱 I love building opensource or in hackathons <br>💬 Ask me about product development and gaming<br>⚡ Just a Chill Guy
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumik.baksi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sbaksi.tfa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik-baksi) 
