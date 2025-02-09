@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working as a Fullstack intern in EffiGo Globals<br>👯 I’m looking to collaborate on MERN/Web3 projects<br>🌱 I’m currently a CSE undergrad <br>💬 Ask me about Web development and gaming<br>⚡ Web3 enthusiast
+🔭 I’m currently working as a AIML Engineer in Catoff Gaming<br>👯 I’m looking to collaborate on AI & Web3 projects<br>🌱 I lobe building opensource or in hackathons <br>💬 Ask me about product development and gaming<br>⚡ AI enthusiast
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumik.baksi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sbaksi.tfa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik-baksi) 
@@ -21,10 +21,15 @@
       </tr>
   </thead>
   <tbody> 
+  <tr>
+      <td> <b> SDE-ML </b> </td>
+      <td><a href="https://www.catoff.xyz/"/><b>Catoff Gaming</b></a></td>
+      <td> <b> January 2025 - Present </b> </td>
+   </tr>
    <tr>
-      <td> <b> Project Engineer Intern </b> </td>
+      <td> <b> Project Engineer </b> </td>
       <td><a href="https://www.effigoglobal.com/"/><b>EffiGO Globals</b></a></td>
-      <td> <b> January 2024 - Present </b> </td>
+      <td> <b> January 2024 - December 2024 </b> </td>
    </tr> 
   <tr>
       <td> <b> Fullstack Developer Intern </b> </td>
