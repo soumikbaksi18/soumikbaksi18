@@ -39,23 +39,22 @@
   <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://drypto-pied.vercel.app/"/><b>Drypto</b></a></td>
-      <td> <b>Dec 2022 - March 2023 </b> </td>
-   </tr>
-
-   <tr>
-      <td> <b>Software Engineer Intern</b> </td>
-      <td><a href="https://estwoadvisors.com/"/><b>Estwo Advisors</b></a></td>
-      <td> <b>Dec 2022 - March 2023 </b> </td>
+      <td> <b>Dec 2022 - March 2023</b> </td>
    </tr>
   <tr>
       <td> <b>Frontend Developer Intern</b> </td>
       <td><a href="https://de3verse.com/"/><b>De3Verse</b></a></td>
-      <td> <b>Nov 2022 - Dec 2022 </b> </td>
-   </tr>  
+      <td> <b>March 2023 - Apr 2023</b> </td>
+   </tr> 
+   <tr>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://estwoadvisors.com/"/><b>Estwo Advisors</b></a></td>
+      <td> <b>Jan 2023 - Feb 2023 </b> </td>
+   </tr>
    <tr>
       <td> <b> Technical Lead </b> </td>
       <td><a href="https://uemmun.in/"/><b>UEMMUN</b></a></td>
-      <td> <b> Oct 2022 - Present </b> </td>
+      <td> <b> Oct 2022 - Oct 2023 </b> </td>
    </tr>
    <tr>
       <td> <b> Frontend Developer Intern </b> </td>
